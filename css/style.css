@@ -493,7 +493,7 @@ ul.search li a:hover {
 
 .titlepage h2 {
      font-size: 40px;
-     color: #1c1c1c;
+     color: #000000;
      line-height: 40px;
      font-weight: 700;
      padding: 0;
@@ -502,7 +502,7 @@ ul.search li a:hover {
 .titlepage span {
      font-size: 17px;
      line-height: 25px;
-     color: #0a0a0a;
+     color: #000000;
      padding-top: 30px;
      display: block;
 }
